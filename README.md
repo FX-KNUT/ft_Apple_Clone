@@ -4,4 +4,10 @@ https://www.apple.com/kr/ <br>
 https://www.apple.com/kr/iphone-14/
 들을 참조해서 만들어 볼 예정입니다.
 
+## 😋Participants
+
+
+
+## React, TypeScript 사용
+npm install을 했을 떄 나타나는 폴더
 
