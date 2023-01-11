@@ -1,8 +1,11 @@
 import React from 'react'
+import ClickButton from './ClickButton'
 
 const Main = () => {
   return (
-    <div>Main</div>
+    <div>
+      <ClickButton />
+    </div>
   )
 }
 
